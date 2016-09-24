@@ -1,5 +1,5 @@
 # Angular-2-webpack-starter
-Angular 2 starter in webpack
+Angular 2 starter in webpack with materialcss
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
